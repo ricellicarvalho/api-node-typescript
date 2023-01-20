@@ -2,9 +2,6 @@
     <img alt="rest-api" title="Rest Api" src=".github/rest-api.png" width="250px" />
 </h1>
 
-<h4 align="center">
-  Code and Coffee ?
-</h4>
 <p align="center">
   <img alt="Repo size" src="https://img.shields.io/github/repo-size/ricellicarvalho/api-node-typescript">  
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">  
@@ -34,7 +31,7 @@ This project was developed with the following technologies:
 - [Docker](https://www.docker.com/)
 
 
-## ??? Project
+## :laptop: Project
 
 Under construction.
 
