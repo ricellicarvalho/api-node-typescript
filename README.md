@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/logo.png" width="100%">
+  <img alt="Readme logo" src=".github/readme-logo.png" width="100%">
 </p>
 
 ## :rocket: Technologies
