@@ -1,3 +1,12 @@
-import { server } from './server/server';
+import express from 'express';
+import { router } from './router';
 
-server.listen('3333', () => console.log('App running!'));
+const server = express();
+const port = 3333;
+
+server.use(express.json());
+server.use(router);
+
+server.listen(port, () => {
+  console.log(`🚀 Server is running on http://localhost:${port}`);
+});
