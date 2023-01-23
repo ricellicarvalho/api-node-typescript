@@ -10,7 +10,7 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#memo-licence">License</a>
+  <a href="#-licence">License</a>
 </p>
 
 <br>
@@ -46,8 +46,4 @@ This project is under the MIT license. See file [LICENSE](LICENSE.md) for more d
 
 ---
 
-Made with :heart: by <a href="https://github.com/ricellicarvalho" target="_blank">Ricelli Carvalho</a>
-
-&#xa0;
-
-<p align="right">(<a href="#top">Back to top</a>)</p>
+<p align="center">Made with :heart: by <a href="https://github.com/ricellicarvalho" target="_blank">Ricelli Carvalho</a></p>
