@@ -30,8 +30,7 @@ This project was developed with the following technologies:
 - [Postgresql](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 
-<p align="right">[:arrow_up: Back to top](#top)</p>
-
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ## 💻 Project
 
